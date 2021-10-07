@@ -1,0 +1,4 @@
+_Làm quen với vscode *
+_Cách đẩy dự án lên trên github *
+_Cách tạo 1 file html và chạy nó
+_Cách deploy trang web lên server 

@@ -1,0 +1,5 @@
+Lesson 3
+_ CSS: display và float
+_ position: absolute
+_ 1 chút thẻ trong html nếu còn time
+_ Demo web mình lên thông qua github

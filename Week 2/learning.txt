@@ -1,0 +1,6 @@
+_Học về attribute
+_Học về CSS
+3 cách để cấu hình nên css:
++ Inline
++ Internal
++ External
