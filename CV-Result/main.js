@@ -9,7 +9,7 @@ $(function () {
             Swal.fire({
               title:
                 "Xin chúc mừng " +
-                data["name"] +
+                data["name"] + " - " + data['id'] +
                 " đã xuất sắc vượt qua vòng CV!! Hãy cùng chờ đón lịch phỏng vấn nhé!",
               width: 800,
               customClass: "swal-height",

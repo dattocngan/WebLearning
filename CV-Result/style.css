@@ -54,7 +54,7 @@ h3 {
   margin-top: 5px;
 }
 .swal-height {
-  height: 30vh;
+  height: 28vh;
 }
 @media screen and (max-width: 1150px) {
   .form-group {
@@ -78,6 +78,6 @@ h3 {
     width: 150px;
   }
   .swal-height {
-    height: 40vh;
+    height: 45vh;
   }
 }
