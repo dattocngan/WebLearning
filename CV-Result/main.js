@@ -37,7 +37,11 @@ $(function () {
             });
           }
         } else {
-          alert("Không tìm thấy thông tin");
+          Swal.fire({
+            icon: 'error',
+            title: 'Hmmm...',
+            text: 'Chúng mình không thấy đơn của bạn, hãy thử nhập lại bằng SĐT hoặc MSV.'
+          })
         }
       });
     });
